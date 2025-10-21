@@ -1,4 +1,4 @@
-# 💫 Hola! Mi nombre es Ana.
+# ✨ Hola! Mi nombre es Ana.
 <p align="center">
 Soy alumna de 2º año de Desarrollo de Aplicaciones Multiplataforma en Digitech. Me apasiona aprender de forma continua y mi meta es unir mis habilidades en programación, bases de datos y análisis para crear soluciones prácticas que resuelvan problemas reales. Mi mentalidad es proactiva y me motiva encontrar la forma más eficiente de hacer las cosas.<br>Busco oportunidades en desarrollo de software o análisis de datos para contribuir con soluciones tecnológicas.
 </p>
